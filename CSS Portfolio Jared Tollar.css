@@ -1,0 +1,33 @@
+#h1{
+	color: red;
+	text-align: center;
+	font-family: vivaldi;
+}
+body {
+	background-color: white;
+	
+}
+li  {
+	float: left;
+}
+ li a {
+	display: block;
+	padding: 14px 30px;
+	text-align: center;
+}
+img{
+	padding: 0px 0px;
+
+}
+
+.instagram{
+ color: green;
+ text-align: bottom;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: grey;
+    overflow: hidden;
+}
