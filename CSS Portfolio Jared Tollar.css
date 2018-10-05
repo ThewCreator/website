@@ -1,0 +1,55 @@
+    #h1{
+	    color: red;
+    	text-align: center;
+    	font-family: Garamond;
+}
+    body {
+	   background-color: grey;
+	
+}
+    .h2{
+        color:red;
+        font-family: Garamond;
+        font-size: 20px; 
+        text-align: right; 
+        content: right;
+}
+    li  {
+	   float: left;
+}
+    li a {
+	   display: block;
+	   padding: 15px 100px;
+	   text-align: center;
+}       
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        background-color: white;
+        overflow: hidden;
+}
+    a:link {
+        color: red; 
+        background-color: transparent; 
+        text-decoration: none;
+}
+
+    a:visited {
+        color: red;
+        background-color: transparent;
+        text-decoration: none;
+}
+
+    a:hover {
+        color: red;
+        background-color: transparent;
+        text-decoration: underline;
+}
+
+    a:active {
+        color: red;
+        background-color: transparent;
+        text-decoration: underline;
+}
+
